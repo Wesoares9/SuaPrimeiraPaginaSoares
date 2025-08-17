@@ -14,11 +14,6 @@ Este é um site estilo blog criado com Django, utilizando o padrão MVT, heranç
 - Django
 - SQLite (banco de dados padrão do Django)
 
-##  Como rodar o projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/blog_django.git
-   cd blog_django
 
 
